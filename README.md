@@ -33,6 +33,10 @@ Input Files
 - Bright Coffe Shop Sales Analysis -It contains informatio about the exercise and what has to be executed
 
 Output Files
--  
+-  Bright Coffee SQL Script- SQL file containing full SQL code
+-  Bright  Coffee Shop Report- Outputfile containg detailed analysis, with recommendations
 
-
+Working File
+-Coffe Shop Analysis- Excel file containing  table from SQL used to develop  visuals (Pivot Tables)
+- Miro Planning - The file contains project plan
+  
